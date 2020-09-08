@@ -1,3 +1,3 @@
 # Kokoa Clone 2020 Update
 
-CSS got so much better
+Basic html,css,javascrip practice by cloning kakaotalk
